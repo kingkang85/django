@@ -1,3 +1,4 @@
+# 내가 만든 걸로 해줘...
 # Django documentation build configuration file, created by
 # sphinx-quickstart on Thu Mar 27 09:06:53 2008.
 #
